@@ -54,4 +54,4 @@ The frontend is built using **ReactJS** and provides a professional, role-based 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/sumankumari957/frontend-Project.git
+git clone https://github.com/amit979826/frontend-Project.git
